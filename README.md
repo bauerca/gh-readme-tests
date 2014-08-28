@@ -14,3 +14,5 @@ Link to [title()](#title). Parentheses are removed.
 ## Class.prototype.f()
 
 ## Braces{}
+
+## braces{between}braces
