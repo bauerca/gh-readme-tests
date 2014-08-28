@@ -9,4 +9,6 @@ Link to [dots in title](#dotsintitle). Dots are simply removed.
 
 ## title()
 
-Link to [title()](#title()).
+Link to [title()](#title). Parentheses are removed.
+
+## Class.prototype.f()
