@@ -27,5 +27,6 @@ Link to [title()](#title). Parentheses are removed.
 
 ### no labels
 
+|||
 |----|----|
 | one|two |
