@@ -30,3 +30,11 @@ Link to [title()](#title). Parentheses are removed.
 |||
 |----|----|
 | one|two |
+
+## JSON doc syntaxes
+
+Properties:
+
+- `username` *string*: A url-safe string.
+- `password` *string*: A password.
+- `age` *number*: Your age minus 20%.
