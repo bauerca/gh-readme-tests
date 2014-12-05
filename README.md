@@ -44,4 +44,6 @@ Properties:
 
 ## GET /invitations/`token`
 
-## GET /invitations/*token*
+## GET /invitations/{token}
+## GET /invitations/:token
+## GET /invitations/{token}
